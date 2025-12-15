@@ -1,8 +1,8 @@
 ## Hi there 👋!
 
-We are the Dutch Cloud Native + AI Community, you can find us on [LinkedIn]([url](https://www.linkedin.com/company/dutchcloudnative/?viewAsMember=true)) and [meetup.com]([url](https://www.meetup.com/Dutch-cloud-native)).
+We are the Dutch Cloud Native + AI Community, you can find us on [LinkedIn](https://www.linkedin.com/company/dutchcloudnative/?viewAsMember=true) and [meetup.com](https://www.meetup.com/Dutch-cloud-native).
 
-We run a successful meetup and the yearly conference [Cloud Native Community Days Amsterdam]([url](https://cloudnative.amsterdam)), join us! 
+We run a successful meetup and the yearly conference [Cloud Native Community Days Amsterdam](https://cloudnative.amsterdam), join us! 
 
 <!--
 
@@ -17,6 +17,7 @@ We run a successful meetup and the yearly conference [Cloud Native Community Day
 
 ## Contribute
 
+Give us a shout at [info@cloudnative.amsterdam](mailto:info@cloudnative.amsterdam)!
 
 
 ## Core Commitments
